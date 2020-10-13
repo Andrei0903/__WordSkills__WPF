@@ -18,3 +18,10 @@ C:\Users\kroli\OneDrive\Документы\project\C#\WPF\WoredSkills\ls_1\ls_1\
 C:\Users\kroli\OneDrive\Документы\project\C#\WPF\WoredSkills\ls_1\ls_1\obj\Debug\ls_1.exe
 C:\Users\kroli\OneDrive\Документы\project\C#\WPF\WoredSkills\ls_1\ls_1\obj\Debug\ls_1.pdb
 C:\Users\kroli\OneDrive\Документы\project\C#\WPF\WoredSkills\ls_1\ls_1\obj\Debug\App.baml
+C:\Users\kroli\OneDrive\Документы\project\C#\WPF\WoredSkills\ls_1\ls_1\bin\Debug\EntityFramework.dll
+C:\Users\kroli\OneDrive\Документы\project\C#\WPF\WoredSkills\ls_1\ls_1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\kroli\OneDrive\Документы\project\C#\WPF\WoredSkills\ls_1\ls_1\bin\Debug\EntityFramework.xml
+C:\Users\kroli\OneDrive\Документы\project\C#\WPF\WoredSkills\ls_1\ls_1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\kroli\OneDrive\Документы\project\C#\WPF\WoredSkills\ls_1\ls_1\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\kroli\OneDrive\Документы\project\C#\WPF\WoredSkills\ls_1\ls_1\obj\Debug\ls_1_Content.g.cs
+C:\Users\kroli\OneDrive\Документы\project\C#\WPF\WoredSkills\ls_1\ls_1\obj\Debug\ls_1.csproj.CopyComplete
