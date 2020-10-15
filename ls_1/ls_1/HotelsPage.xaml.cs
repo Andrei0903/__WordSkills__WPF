@@ -23,7 +23,7 @@ namespace ls_1
         public HotelsPage()
         {
             InitializeComponent();
-            DGridHotels.ItemsSource = TourBaseEntities.GetContext().Hotel.ToList();
+           /* DGridHotels.ItemsSource = TourBaseEntities.GetContext().Hotel.ToList();*/
         }
 
         private void Button_Click(object sender, RoutedEventArgs e)
@@ -44,6 +44,15 @@ namespace ls_1
         private void btnDelete_Click(object sender, RoutedEventArgs e)
         {
 
+        }
+
+        private void Page_IsVisibleChanged(object sender, DependencyPropertyChangedEventArgs e)
+        {
+            if (Visibility == Visibility.Visible)
+            {
+                TourBaseEntities.GetContext().ChangeTracker.Entries().ToList().ForEach(p => p.Reload());
+                DGridHotels.ItemsSource = TourBaseEntities.GetContext().Hotel.ToList();
+            }
         }
     }
 }
