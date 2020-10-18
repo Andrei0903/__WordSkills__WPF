@@ -14,8 +14,8 @@ namespace ls_1
     
     public partial class Hotelimage
     {
-        public int id { get; set; }
-        public Nullable<int> Hotelid { get; set; }
+        public int ID { get; set; }
+        public int Hotelid { get; set; }
         public byte[] ImageSource { get; set; }
     
         public virtual Hotel Hotel { get; set; }

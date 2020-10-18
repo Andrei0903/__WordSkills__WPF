@@ -19,10 +19,10 @@ namespace ls_1
         {
             this.HotelComment = new HashSet<HotelComment>();
             this.Hotelimage = new HashSet<Hotelimage>();
-            this.Type = new HashSet<Type>();
+            this.Tour = new HashSet<Tour>();
         }
     
-        public int id { get; set; }
+        public int ID { get; set; }
         public string Name { get; set; }
         public int CountOfStars { get; set; }
         public string CountryCode { get; set; }
@@ -33,6 +33,6 @@ namespace ls_1
         [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2227:CollectionPropertiesShouldBeReadOnly")]
         public virtual ICollection<Hotelimage> Hotelimage { get; set; }
         [System.Diagnostics.CodeAnalysis.SuppressMessage("Microsoft.Usage", "CA2227:CollectionPropertiesShouldBeReadOnly")]
-        public virtual ICollection<Type> Type { get; set; }
+        public virtual ICollection<Tour> Tour { get; set; }
     }
 }

@@ -23,16 +23,21 @@ namespace ls_1
 
         private Hotel _correntHotel = new Hotel();
 
-        public AddEditPage()
+        public AddEditPage( Hotel selectedHotel )
         {
             InitializeComponent();
+
+            if (selectedHotel != null)
+                _correntHotel = selectedHotel;
+
+            ComboCountry.ItemsSource = ToursBaseEntities1.GetContext().Country.ToList();
             DataContext = _correntHotel;
              
         }
 
         private void Button_Click(object sender, RoutedEventArgs e)
         {   
-            ComboCountry.ItemsSource = TourBaseEntities.GetContext().Country.ToList();
+            
         }
 
         private void Button_Click_1(object sender, RoutedEventArgs e)
@@ -44,20 +49,21 @@ namespace ls_1
             if (_correntHotel.CountOfStars < 1 || _correntHotel.CountOfStars > 5)
                 errors.AppendLine("Число звезд от 1 до 5");
             if (_correntHotel.Country == null)
+                ToursBaseEntities1.GetContext().SaveChanges();
                 errors.AppendLine("Выберите страну");
-           
+
             if (errors.Length > 0)
             {
                 MessageBox.Show(errors.ToString());
                 return;
             }
 
-            if (_correntHotel.id == 0)
-                TourBaseEntities.GetContext().Hotel.Add(_correntHotel);
+            if (_correntHotel.ID == 0)
+                ToursBaseEntities1.GetContext().Hotel.Add(_correntHotel);
 
             try
             {
-                TourBaseEntities.GetContext().SaveChanges();
+                ToursBaseEntities1.GetContext().SaveChanges();
                 MessageBox.Show("Успешно");
                 Manager.MainFrame.GoBack();
             }
