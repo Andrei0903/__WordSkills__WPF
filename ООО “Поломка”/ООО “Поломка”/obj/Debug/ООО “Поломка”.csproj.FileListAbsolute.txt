@@ -1,0 +1,17 @@
+C:\Users\kroli\OneDrive\Документы\project\C#\WoredSkills\Project\ООО “Поломка”\ООО “Поломка”\obj\Debug\ООО “Поломка”.csprojAssemblyReference.cache
+C:\Users\kroli\OneDrive\Документы\project\C#\WoredSkills\Project\ООО “Поломка”\ООО “Поломка”\obj\Debug\App.g.cs
+C:\Users\kroli\OneDrive\Документы\project\C#\WoredSkills\Project\ООО “Поломка”\ООО “Поломка”\obj\Debug\ООО “Поломка”_MarkupCompile.cache
+C:\Users\kroli\OneDrive\Документы\project\C#\WoredSkills\Project\ООО “Поломка”\ООО “Поломка”\bin\Debug\ООО “Поломка”.exe.config
+C:\Users\kroli\OneDrive\Документы\project\C#\WoredSkills\Project\ООО “Поломка”\ООО “Поломка”\bin\Debug\ООО “Поломка”.exe
+C:\Users\kroli\OneDrive\Документы\project\C#\WoredSkills\Project\ООО “Поломка”\ООО “Поломка”\bin\Debug\ООО “Поломка”.pdb
+C:\Users\kroli\OneDrive\Документы\project\C#\WoredSkills\Project\ООО “Поломка”\ООО “Поломка”\obj\Debug\MainWindow.g.cs
+C:\Users\kroli\OneDrive\Документы\project\C#\WoredSkills\Project\ООО “Поломка”\ООО “Поломка”\obj\Debug\ООО “Поломка”_MarkupCompile.lref
+C:\Users\kroli\OneDrive\Документы\project\C#\WoredSkills\Project\ООО “Поломка”\ООО “Поломка”\obj\Debug\MainWindow.baml
+C:\Users\kroli\OneDrive\Документы\project\C#\WoredSkills\Project\ООО “Поломка”\ООО “Поломка”\obj\Debug\ООО “Поломка”.g.resources
+C:\Users\kroli\OneDrive\Документы\project\C#\WoredSkills\Project\ООО “Поломка”\ООО “Поломка”\obj\Debug\ООО__Поломка_.Properties.Resources.resources
+C:\Users\kroli\OneDrive\Документы\project\C#\WoredSkills\Project\ООО “Поломка”\ООО “Поломка”\obj\Debug\ООО “Поломка”.csproj.GenerateResource.cache
+C:\Users\kroli\OneDrive\Документы\project\C#\WoredSkills\Project\ООО “Поломка”\ООО “Поломка”\obj\Debug\ООО “Поломка”.csproj.CoreCompileInputs.cache
+C:\Users\kroli\OneDrive\Документы\project\C#\WoredSkills\Project\ООО “Поломка”\ООО “Поломка”\obj\Debug\ООО “Поломка”.exe
+C:\Users\kroli\OneDrive\Документы\project\C#\WoredSkills\Project\ООО “Поломка”\ООО “Поломка”\obj\Debug\ООО “Поломка”.pdb
+C:\Users\kroli\OneDrive\Документы\project\C#\WoredSkills\Project\ООО “Поломка”\ООО “Поломка”\obj\Debug\MainMenuPage.g.cs
+C:\Users\kroli\OneDrive\Документы\project\C#\WoredSkills\Project\ООО “Поломка”\ООО “Поломка”\obj\Debug\MainMenuPage.baml
